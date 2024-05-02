@@ -1,4 +1,4 @@
-title: Math for ML/DL
+title: Home
 
 # Key Concepts
 
@@ -29,3 +29,13 @@ title: Math for ML/DL
 | Imperial College London
 
 [Course => ](https://www.coursera.org/specializations/mathematics-machine-learning)
+
+
+## Certficates
+
+![Imperial College London - Linear Algebra](Certificates/ICL_LG.png)
+![Imperial College London - Multivariate Calculus](Certificates/ICL_MC.png)
+![Imperial College London - PCA](Certificates/ICL_PCA.png)
+![Deeplearning.ai - Linear Algebra](Certificates/DL_LG.png)
+![Deeplearning.ai - Calculus](Certificates/DL_Calculus.png)
+![Deeplearning.ai - Probability and Statistics](Certificates/DL_Prob_stats.png)
