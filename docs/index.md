@@ -3,7 +3,7 @@ title: Home
 # Key Concepts
 
 *I have personally enjoyed learning from mathematicians [Grant Sanderson](https://www.youtube.com/c/3blue1brown),
-[Lois Serrano](https://serrano.academy/) and below said book, courses more than enough for any GAN models, NLP models and classic machine learning and deep learning models.*
+[Lois Serrano](https://serrano.academy/). Below said book, courses are more than enough to understand, disect and go deep in any GAN models, NLP models and classic machine learning and deep learning models.*
 
 - Even though modern machine learning and deep learning libraries makes maching learning and deep learning easy, it is crucial to understand certain concepts to understand the core of model architectures and efficient model building. 
 - It is still possible to use above said library API's and easily use existing model weights to create a machine learning pipeline. However, I strongly believe understanding the math behind helps long way. 
