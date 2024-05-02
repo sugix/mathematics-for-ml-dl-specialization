@@ -1,125 +1,31 @@
-# MkDocs Bootstrap Theme
+title: Math for ML/DL
 
-This project provides [MkDocs] themes for the different Bootstrap themes
-provided by the [Bootswatch] project.
+# Key Concepts
 
+*I have personally enjoyed learning from mathematicians [Grant Sanderson](https://www.youtube.com/c/3blue1brown),
+[Lois Serrano](https://serrano.academy/) and below said book, courses more than enough for any GAN models, NLP models and classic machine learning and deep learning models.*
 
-## Installation & Usage
+- Even though modern machine learning and deep learning libraries makes maching learning and deep learning easy, it is crucial to understand certain concepts to understand the core of model architectures and efficient model building. 
+- It is still possible to use above said library API's and easily use existing model weights to create a machine learning pipeline. However, I strongly believe understanding the math behind helps long way. 
 
-Install the collection of themes with pip, which is hopefully how you
-installed MkDocs.
+## 3Blue1Brown
 
-    pip install mkdocs-bootswatch
+    [3B1B](https://www.3blue1brown.com/#lessons)
 
+## Mathematic for Machine Learning Book
 
-After installation is complete, edit your [mkdocs.yml] config file and set the
-[theme] to one of the following Bootwatch themes included. The full list is as
-follows:
+    My favorite book - Mathematics For Machine Learning Book
 
- - [cerulean](#cerulean)
- - [cosmo](#cosmo)
- - [cyborg](#cyborg)
- - [darkly](#darkly)
- - [flatly](#flatly)
- - [journal](#journal)
- - [litera](#litera)
- - [lumen](#lumen)
- - [lux](#lux)
- - [materia](#materia)
- - [minty](#minty)
- - [pulse](#pulse)
- - [sandstone](#sandstone)
- - [simplex](#simplex)
- - [slate](#slate)
- - [solar](#solar)
- - [spacelab](#spacelab)
- - [superhero](#superhero)
- - [united](#united)
- - [yeti](#yeti)
+[Link to book => ](https://mml-book.github.io/)
 
-For example:
+## Mathematics for Machine Learning and Deep Learning Specialization
 
-    theme: cerulean
+    My favorite teacher - Lois Serrano 
 
-Or:
+[Course => ](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
 
-    theme: yeti
+## Mathematics for Maching Learning Specialization
 
-As with the base `mkdocs` theme, you can request alternate colors for the
-navigation header. Allowed values are `primary` (the default), `dark`, and
-`light`:
+| Imperial College London
 
-    theme:
-        name: cerulean
-        nav_style: dark
-
-## Screenshots
-
-This [documentation] is rendered with the Bootswatch [Flatly](#flatly) theme.
-Previews of the other themes can be seen below.
-
-### Cerulean
-![Cerulean](screenshots/cerulean.png)
-
-### Cosmo
-![Cosmo](screenshots/cosmo.png)
-
-### Cyborg
-![Cyborg](screenshots/cyborg.png)
-
-### Darkly
-![Darkly](screenshots/darkly.png)
-
-### Flatly
-![Flatly](screenshots/flatly.png)
-
-### Journal
-![Journal](screenshots/journal.png)
-
-### Litera
-![Litera](screenshots/litera.png)
-
-### Lumen
-![Lumen](screenshots/lumen.png)
-
-### Lux
-![Lux](screenshots/lux.png)
-
-### Materia
-![Materia](screenshots/materia.png)
-
-### Minty
-![Minty](screenshots/minty.png)
-
-### Pulse
-![Pulse](screenshots/pulse.png)
-
-### Sandstone
-![Sandstone](screenshots/sandstone.png)
-
-### Simplex
-![Simplex](screenshots/simplex.png)
-
-### Slate
-![Slate](screenshots/slate.png)
-
-### Solar
-![Solar](screenshots/solar.png)
-
-### Spacelab
-![Spacelab](screenshots/spacelab.png)
-
-### Superhero
-![Superhero](screenshots/superhero.png)
-
-### United
-![United](screenshots/united.png)
-
-### Yeti
-![Yeti](screenshots/yeti.png)
-
-[Mkdocs]: https://www.mkdocs.org
-[mkdocs.yml]: https://www.mkdocs.org/user-guide/configuration/
-[theme]: https://www.mkdocs.org/user-guide/configuration/#theme
-[documentation]: https://mkdocs.github.io/mkdocs-bootstrap/
-[Bootswatch]: https://bootswatch.com/
+[Course => ](https://www.coursera.org/specializations/mathematics-machine-learning)

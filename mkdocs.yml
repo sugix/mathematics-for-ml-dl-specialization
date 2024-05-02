@@ -1,3 +1,5 @@
-site_name: Mathematics for Deep Learning And Machine Learning Learning Code, Notes
+site_name: My Math Notes
 site_dir: public
-theme: darkly
+theme: lux
+plugins:
+    - mkdocs-jupyter
