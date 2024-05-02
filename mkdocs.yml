@@ -1,4 +1,3 @@
-site_name: My Docs by GitLab Pages
-site_url: https://pages.gitlab.io/mkdocs
+site_name: Mathematics for Deep Learning And Machine Learning Learning Code, Notes
 site_dir: public
 theme: darkly

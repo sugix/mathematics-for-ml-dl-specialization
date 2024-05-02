@@ -1,5 +1,3 @@
-title: Home
-
 # MkDocs Bootstrap Theme
 
 This project provides [MkDocs] themes for the different Bootstrap themes
