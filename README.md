@@ -6,7 +6,7 @@
 
 ### Blog posts which are born from this learning
 
-https://blog.sugiv.fyi/PCA
-https://blog.sugiv.fyi/calculus
-https://blog.sugiv.fyi/bayesics
-https://blog.sugiv.fyi/split-testing
+- https://blog.sugiv.fyi/PCA
+- https://blog.sugiv.fyi/calculus
+- https://blog.sugiv.fyi/bayesics
+- https://blog.sugiv.fyi/split-testing
